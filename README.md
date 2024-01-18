@@ -1,0 +1,1 @@
+Use VSCode extension Live Server to run this on localhost and have auto refresh on save.
